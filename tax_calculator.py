@@ -1,9 +1,9 @@
 """
 ================================================================================
-AUSTRALIAN INCOME TAX CALCULATOR
+A-INCOME TAX CALCULATOR
 ================================================================================
 
-A comprehensive tax calculation system based on ATO (Australian Taxation Office)
+A comprehensive tax calculation system based on ATO (A-Taxation Office)
 guidelines for the 2024-25 financial year.
 
 Features:
