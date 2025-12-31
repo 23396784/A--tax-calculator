@@ -1,4 +1,4 @@
-# Australian Tax Calculator
+# A-Tax Calculator
 # Python Dependencies
 
 numpy>=1.21.0
