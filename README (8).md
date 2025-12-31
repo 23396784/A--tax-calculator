@@ -1,6 +1,6 @@
 # A-Income Tax Calculator
 
-A comprehensive Python application for calculating Australian income tax, withholding tax, superannuation contributions, and tax refunds based on ATO (A-Taxation Office) guidelines.
+A comprehensive Python application for calculating A-income tax, withholding tax, superannuation contributions, and tax refunds based on ATO (A-Taxation Office) guidelines.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -83,7 +83,7 @@ australian-tax-calculator/
 ├── README.md
 ├── requirements.txt
 ├── tax_calculator.py          # Main calculator module
-├── australian_tax_analysis.ipynb  # Jupyter notebook with full analysis
+├── a_tax_analysis.ipynb  # Jupyter notebook with full analysis
 ├── visualizations.py          # Charts and graphs
 └── tests/
     └── test_calculator.py     # Unit tests
